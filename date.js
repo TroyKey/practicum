@@ -5,5 +5,4 @@ function findDate(string) {
                   Number(match[2]) - 1,
                   Number(match[1]));
 }
-
 print(findDate("30-1-2003"));
